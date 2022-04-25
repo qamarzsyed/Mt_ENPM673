@@ -1,6 +1,6 @@
 READ ME 
 
-Midterm Exam for Qamar Syed ENPM 673
+Qamar Syed ENPM 673
 
 Environment: Python 3.7 with numpy and opencv 
 
